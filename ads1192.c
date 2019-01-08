@@ -8,7 +8,7 @@
 * @par
 * Version 1.0 2014
 */
-#include "libads1192.h"
+#include "ads1192.h"
 
 /*!
 *\fn void ads1192_spi_init (void)
